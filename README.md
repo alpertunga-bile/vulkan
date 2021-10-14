@@ -11,7 +11,7 @@ You have to include
 - [x] Stb-image
 - [x] TinyObjLoader
 
-packages in your project.
+packages to your project.
 
 ## Outputs
 
