@@ -4,7 +4,7 @@ Vulkan Tutorial by Alexander Overvoorde
 
 ## Before Using
 
-You have to have include 
+You have to include 
 
 - [x] GLFW
 - [x] GLM
