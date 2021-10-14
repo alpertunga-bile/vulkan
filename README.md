@@ -1,5 +1,18 @@
 # Vulkan
 
+Vulkan Tutorial by Alexander Overvoorde
+
+## Before Using
+
+You have to have include 
+
+- [x] GLFW
+- [x] GLM
+- [x] Stb-image
+- [x] TinyObjLoader
+
+packages in your project.
+
 ## Outputs
 
 ![hello_triangle](https://user-images.githubusercontent.com/76731692/137403297-ebaf67d3-0ad8-4391-aed4-3b52e68e7124.jpg)
@@ -12,5 +25,5 @@
 
 ![hello_model](https://user-images.githubusercontent.com/76731692/137403319-016c80ba-129d-4c88-9426-07e2444b8bad.jpg)
 
-Vulkan Tutorial by Alexander Overvoorde
+## Reference
 - Vulkan Tutorial. https://vulkan-tutorial.com/
